@@ -8,7 +8,10 @@
 Here we are going to see hoe to use Italic and Bold
 
 *This is a example of italic*
+
 _This is another example of italic_
 
+
 **This is a Bold Example**
+
 __This is another Bold Example__

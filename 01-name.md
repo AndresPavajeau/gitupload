@@ -15,3 +15,15 @@ _This is another example of italic_
 **This is a Bold Example**
 
 __This is another Bold Example__
+
+
+## _Also_
+- Item 1
+- Item 2
+- Item 3
+
+## **Another Options**
+- Option 1
+- Option 2
+- Option 3
+
